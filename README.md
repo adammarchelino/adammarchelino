@@ -1,0 +1,106 @@
+<div align="center">
+
+```
+ █████╗ ██████╗  █████╗ ███╗   ███╗
+██╔══██╗██╔══██╗██╔══██╗████╗ ████║
+███████║██║  ██║███████║██╔████╔██║
+██╔══██║██║  ██║██╔══██║██║╚██╔╝██║
+██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
+**Web Developer · AI Enthusiast · Lifelong Learner**
+
+*Politeknik Negeri Banyuwangi, Indonesia*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-marchelino)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/adam_marchelino)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@adam_marchelino)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/Adam_Marchelino)
+
+</div>
+
+---
+
+## About
+
+I build clean, functional web applications and explore the intersection of modern web development and generative AI. Currently studying Informatics at Poliwangi while working on real-world projects that bridge design and engineering.
+
+- Currently learning **Next.js**, **TypeScript**, and **AI integration**
+- Building multimodal GenAI applications
+- Open to collaboration on web and AI-related projects
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [genai-backend-api](https://github.com/adammarchelino/genai-backend-api) | Multimodal GenAI backend with API integration | Node.js, JavaScript |
+| [generative-ai-chatbot](https://github.com/adammarchelino/generative-ai-chatbot) | Conversational AI chatbot interface | JavaScript |
+| [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | Next.js, TypeScript |
+| [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | JavaScript |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=adammarchelino&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammarchelino&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adammarchelino&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adammarchelino&theme=github-compact&hide_border=true)](https://github.com/adammarchelino)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build things that matter."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=adammarchelino&style=flat-square&color=grey)
+
+</div>
