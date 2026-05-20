@@ -29,12 +29,18 @@
 
 ## About
 
-I build clean, functional web applications and explore the intersection of modern web development and generative AI. Currently studying Informatics at Poliwangi while working on real-world projects that bridge design and engineering.
+I'm a developer in the making with a broad appetite for technology — web development,
+generative AI, cybersecurity, and beyond. I don't limit myself to one lane; I learn
+across disciplines, actively joining bootcamps, courses, and tech events to keep
+pushing forward.
 
-- Currently learning **Next.js**, **TypeScript**, and **AI integration**
-- Building multimodal GenAI applications
-- Occasionally diving into cybersecurity and Linux environments
-- Open to collaboration on web and AI-related projects
+Currently studying Informatics at Poliwangi while building real projects and
+sharpening skills across multiple stacks. Still growing, but serious about it
+and ready to contribute.
+
+- Exploring **Web Development**, **AI integration**, and **Cybersecurity**
+- Regularly joining bootcamps, free courses, and community events
+- Open to collaboration, contribution, and anything worth building
 
 ## Tech Stack
 
