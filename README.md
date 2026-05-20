@@ -16,7 +16,7 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
-**Web Developer · AI Enthusiast · Lifelong Learner**
+**Web Developer · AI Enthusiast · Ambitious Learner**
 
 *Politeknik Negeri Banyuwangi, Indonesia*
 
