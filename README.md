@@ -70,7 +70,6 @@ and ready to contribute.
 <div align="center">
 
 <img height="160" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammarchelino)](https://github.com/anuraghazra/github-readme-stats)" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammarchelino&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=adammarchelino&theme=github-dark-blue&hide_border=true)
 
