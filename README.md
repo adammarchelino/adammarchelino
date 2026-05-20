@@ -7,6 +7,13 @@
 ██╔══██║██║  ██║██╔══██║██║╚██╔╝██║
 ██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
+
+███╗   ███╗ █████╗ ██████╗  ██████╗██╗  ██╗███████╗██╗     ██╗███╗   ██╗ ██████╗
+████╗ ████║██╔══██╗██╔══██╗██╔════╝██║  ██║██╔════╝██║     ██║████╗  ██║██╔═══██╗
+██╔████╔██║███████║██████╔╝██║     ███████║█████╗  ██║     ██║██╔██╗ ██║██║   ██║
+██║╚██╔╝██║██╔══██║██╔══██╗██║     ██╔══██║██╔══╝  ██║     ██║██║╚██╗██║██║   ██║
+██║ ╚═╝ ██║██║  ██║██║  ██║╚██████╗██║  ██║███████╗███████╗██║██║ ╚████║╚██████╔╝
+╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 ```
 
 **Web Developer · AI Enthusiast · Lifelong Learner**
@@ -20,17 +27,14 @@
 
 </div>
 
----
-
 ## About
 
 I build clean, functional web applications and explore the intersection of modern web development and generative AI. Currently studying Informatics at Poliwangi while working on real-world projects that bridge design and engineering.
 
 - Currently learning **Next.js**, **TypeScript**, and **AI integration**
 - Building multimodal GenAI applications
+- Occasionally diving into cybersecurity and Linux environments
 - Open to collaboration on web and AI-related projects
-
----
 
 ## Tech Stack
 
@@ -52,12 +56,11 @@ I build clean, functional web applications and explore the intersection of moder
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logo=linux&logoColor=black)
 
 ## Featured Projects
 
@@ -68,8 +71,6 @@ I build clean, functional web applications and explore the intersection of moder
 | [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | Next.js, TypeScript |
 | [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | JavaScript |
 
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -77,27 +78,9 @@ I build clean, functional web applications and explore the intersection of moder
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=adammarchelino&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adammarchelino&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=adammarchelino&theme=github-dark-blue&hide_border=true)
 
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adammarchelino&theme=github-compact&hide_border=true)](https://github.com/adammarchelino)
-
-</div>
-
----
-
-<div align="center">
 
 *"Build things that matter."*
 
