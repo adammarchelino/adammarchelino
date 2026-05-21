@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](./header.webp)
+![header](./header.svg)
 
 **Web Developer · AI Enthusiast · Ambitious Learner**
 
