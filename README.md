@@ -1,7 +1,7 @@
 <div align="center">
 
 ```
-![header](./header.svg)
+![header](header.svg)
 ```
 
 **Web Developer · AI Enthusiast · Ambitious Learner**
