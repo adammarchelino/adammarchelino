@@ -52,7 +52,6 @@ and ready to contribute.
 
 ## Featured Projects
 
-<div align="center">
 
 | Project | Description | Stack |
 |---|---|---|
@@ -61,7 +60,7 @@ and ready to contribute.
 | [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | Next.js, TypeScript |
 | [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | JavaScript |
 
-<div/>
+
 
 ## GitHub Stats
 
