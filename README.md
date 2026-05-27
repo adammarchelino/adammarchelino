@@ -44,8 +44,6 @@ and ready to contribute.
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logo=linux&logoColor=black)
@@ -53,12 +51,12 @@ and ready to contribute.
 ## Featured Projects
 
 
-| Project | Description | Stack |
+| Project | Description |
 |---|---|---|
-| [genai-backend-api](https://github.com/adammarchelino/genai-backend-api) | Multimodal GenAI backend with API integration | Node.js, JavaScript |
-| [generative-ai-chatbot](https://github.com/adammarchelino/generative-ai-chatbot) | Conversational AI chatbot interface | JavaScript |
-| [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | Next.js, TypeScript |
-| [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | JavaScript |
+| [genai-backend-api](https://github.com/adammarchelino/genai-backend-api) | Multimodal GenAI backend with API integration | 
+| [generative-ai-chatbot](https://github.com/adammarchelino/generative-ai-chatbot) | Conversational AI chatbot interface | 
+| [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | 
+| [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | 
 
 
 
