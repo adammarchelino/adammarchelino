@@ -50,14 +50,14 @@ and ready to contribute.
 
 ## Featured Projects
 
-<div align="center">
+
 | Project | Description | 
 |---|---|
 | [genai-backend-api](https://github.com/adammarchelino/genai-backend-api) | Multimodal GenAI backend with API integration | 
 | [generative-ai-chatbot](https://github.com/adammarchelino/generative-ai-chatbot) | Conversational AI chatbot interface | 
 | [personal-portfolio-v2](https://github.com/adammarchelino/personal-portfolio-v2) | Personal portfolio with modern design | 
 | [personal-portfolio-v1](https://github.com/adammarchelino/personal-portfolio-v1) | First iteration portfolio web app | 
-</div>
+
 
 
 ## GitHub Stats
