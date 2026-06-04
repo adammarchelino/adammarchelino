@@ -64,8 +64,6 @@ and ready to contribute.
 
 <div align="center">
 
-<img height="160" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adammarchelino)](https://github.com/anuraghazra/github-readme-stats)" />
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adammarchelino)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adammarchelino&theme=github-compact&hide_border=true)](https://github.com/adammarchelino)
