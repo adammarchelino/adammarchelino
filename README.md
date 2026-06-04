@@ -62,7 +62,7 @@ and ready to contribute.
 
 ## GitHub Stats
 
-<div align="center">
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=adammarchelino)](https://git.io/streak-stats)
 
@@ -72,4 +72,4 @@ and ready to contribute.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adammarchelino&style=flat-square&color=grey)
 
-</div>
+
