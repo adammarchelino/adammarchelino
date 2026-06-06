@@ -48,9 +48,10 @@ and ready to contribute.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logo=linux&logoColor=black)
 
+<!--
 ## Featured Projects
 
-<!--
+
 | Project | Description | 
 |---|---|
 | [genai-backend-api](https://github.com/adammarchelino/genai-backend-api) | Multimodal GenAI backend with API integration | 
